@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "338669268678",
+    "firebase_url": "https://direwolf-updater.firebaseio.com",
+    "project_id": "direwolf-updater",
+    "storage_bucket": "direwolf-updater.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338669268678:android:d176e901bd03c65f",
+        "android_client_info": {
+          "package_name": "com.example.quicklauncher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338669268678-l7d99b1eggcgelhgl4eoi8r21l0pr2k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvynCdmYNu6sQ3asckD5FE-6vECTsSN1Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

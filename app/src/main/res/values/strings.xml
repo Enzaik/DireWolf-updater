@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DireWolf Kernel Updater</string>
+    <string name="action_favorite">Fav</string>
+    <string name="action_settings">Test Url</string>
+    <string name="show_old_builds">Show old builds</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
